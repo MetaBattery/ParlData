@@ -1,0 +1,285 @@
+{
+  "house": [
+    {
+      "number": "1",
+      "time": "9:00 am",
+      "heading": "Prayers and acknowledgement",
+      "details": "The House met, at 9 am, pursuant to adjournment. The Speaker (the Honourable M. Dick) took the Chair, made an acknowledgement of country and read Prayers."
+    },
+    {
+      "number": "2",
+      "time": "9:01 am",
+      "heading": "Document",
+      "details": "The Speaker presented the following document:"
+    },
+    {
+      "number": "3",
+      "time": "9:01 am",
+      "heading": "Statement by Speaker",
+      "details": "The Speaker made the following statement:"
+    },
+    {
+      "number": "4",
+      "time": "9:06 am",
+      "heading": "Matter of privilege—Reference to Committee of Privileges and Members’ Interests",
+      "details": "Mr Hill (Assistant Minister for Citizenship and Multicultural Affairs) moved—That the following matter be referred to the Committee of Privileges and Members’ Interests—Whether:"
+    },
+    {
+      "number": "5",
+      "time": "9:07 am",
+      "heading": "Message from the Senate",
+      "details": "Message No. 334, 13 August 2024, from the Senate was reported informing the House that Senator Grogan had been discharged from attendance on the Joint Standing Committee on Electoral Matters, and Senator Brown had been appointed a member of the committee."
+    },
+    {
+      "number": "6",
+      "time": "9:07 am",
+      "heading": "Public Service Amendment Bill (No. 2) 2024",
+      "details": "Mr Shorten\n   (Minister for Government Services), pursuant to notice, presented a Bill for an Act to amend the Public Service Act 1999, and for other purposes."
+    },
+    {
+      "number": "7",
+      "time": "9:15 am",
+      "heading": "Treaties—Joint Standing Committee",
+      "details": "Ms Chesters presented the following document:"
+    },
+    {
+      "number": "8",
+      "time": "9:20 am",
+      "heading": "Future Made in Australia Bill 2024",
+      "details": "The order of the day having been read for the resumption of the debate on the question—That the bill be now read a second time—And on the amendment moved thereto by Mr Taylor, viz.—That all words after “That” be omitted with a view to substituting the following words:"
+    },
+    {
+      "number": "9",
+      "time": "1:30 pm",
+      "heading": "Members 90 second statements",
+      "details": "Members’ statements were made."
+    },
+    {
+      "number": "10",
+      "time": "2:00 pm",
+      "heading": "Questions",
+      "details": "10\tQUESTIONS"
+    },
+    {
+      "number": "11",
+      "time": "3:10 pm",
+      "heading": "Documents",
+      "details": "11\tDOCUMENT"
+    },
+    {
+      "number": "12",
+      "time": "3:10 pm",
+      "heading": "Matter of Public Importance",
+      "details": "The House was informed that Dr M Ryan had proposed that a definite matter of public importance be submitted to the House for discussion, namely, “The need for the Government to urgently address the chronic shortage of housing in Australia”."
+    },
+    {
+      "number": "13",
+      "time": "4:09 pm",
+      "heading": "Report from the Federation Chamber",
+      "details": "The Deputy Speaker reported that the bill had been fully considered by the Federation Chamber and agreed to without amendment, and presented a certified copy of the bill."
+    },
+    {
+      "number": "14",
+      "time": "4:10 pm",
+      "heading": "Report from the Federation Chamber",
+      "details": "The Deputy Speaker reported that the bill had been fully considered by the Federation Chamber and agreed to without amendment, and presented a certified copy of the bill."
+    },
+    {
+      "number": "15",
+      "time": "4:11 pm",
+      "heading": "Report from the Federation Chamber",
+      "details": "The Deputy Speaker reported that the bill had been fully considered by the Federation Chamber and agreed to without amendment, and presented a certified copy of the bill."
+    },
+    {
+      "number": "16",
+      "time": "4:12 pm",
+      "heading": "Future Made in Australia Bill 2024",
+      "details": "The order of the day having been read for the resumption of the debate on the question—That the bill be now read a second time—And on the amendment moved thereto by Mr Taylor (see item No. 8, page #)—"
+    }
+  ],
+  "senate": [
+    {
+      "number": "C",
+      "time": "9:00 am",
+      "heading": "Acknowledgement of country and prayers",
+      "details": "1. Acknowledgement of country and prayers",
+      "status": "Concluded"
+    },
+    {
+      "number": "D",
+      "time": "9:01 am",
+      "heading": "Documents to be presented",
+      "details": "2. Documents to be presented—Consideration at item 16",
+      "status": "Documents tabled"
+    },
+    {
+      "number": "E",
+      "time": "9:01 am",
+      "heading": "Tabling of documents by Clerk",
+      "details": "3. Tabling of documents by Clerk",
+      "status": "Documents tabled"
+    },
+    {
+      "number": "F",
+      "heading": "4.\tCommittees—proposed meetings to be authorised",
+      "details": "4. Committees—proposed meetings to be authorised",
+      "status": "Nil"
+    },
+    {
+      "number": "G",
+      "time": "9:01 am",
+      "heading": "Private senators’ bills",
+      "details": "5. Private senators’ bills",
+      "status": "Bill negatived at second reading"
+    },
+    {
+      "number": "I",
+      "time": "10:14 am",
+      "heading": "Government business orders of the day",
+      "details": "6. Government business orders of the day",
+      "status": "Debate interrupted"
+    },
+    {
+      "number": "O",
+      "heading": "At 12.15 pm",
+      "details": "At 12.15 pm"
+    },
+    {
+      "number": "P",
+      "time": "12:15 pm",
+      "heading": "Senators' statements",
+      "details": "7. Senators’ statements",
+      "status": "Concluded"
+    },
+    {
+      "number": "Q",
+      "heading": "At 1.30 pm",
+      "details": "At 1.30 pm"
+    },
+    {
+      "number": "R",
+      "time": "1:30 pm",
+      "heading": "2 minute statements",
+      "details": "8. 2 minute statements",
+      "status": "Concluded"
+    },
+    {
+      "number": "S",
+      "heading": "At 2 pm",
+      "details": "At 2 pm"
+    },
+    {
+      "number": "T",
+      "time": "2:00 pm",
+      "heading": "Questions",
+      "details": "9. Questions",
+      "status": "Concluded"
+    },
+    {
+      "number": "U",
+      "time": "3:03 pm",
+      "heading": "Motions to take note of answers",
+      "details": "10. Motions to take note of answers",
+      "status": "Agreed to"
+    },
+    {
+      "number": "V",
+      "time": "3:35 pm",
+      "heading": "Notices of Motion",
+      "details": "11. Notices of motion",
+      "status": "Notices given"
+    },
+    {
+      "number": "W",
+      "time": "3:36 pm",
+      "heading": "Placing of business",
+      "details": "12. Placing of business",
+      "status": "Postponements authorised"
+    },
+    {
+      "number": "Z",
+      "time": "4:02 pm",
+      "heading": "Formal motions",
+      "details": "13. Formal motions",
+      "status": "Agreed to"
+    },
+    {
+      "number": "ZL",
+      "time": "3:55 pm",
+      "heading": "14.\tDeferred vote",
+      "details": "14.\tDeferred vote",
+      "status": "Negatived"
+    },
+    {
+      "number": "ZN",
+      "time": "4:05 pm",
+      "heading": "15.\tMatters of public importance and urgency motions",
+      "details": "15. Matters of public importance and urgency motions",
+      "status": "Negatived"
+    },
+    {
+      "number": "ZO",
+      "time": "5:14 pm",
+      "heading": "Consideration of documents",
+      "details": "16. Consideration of documents tabled today",
+      "status": "Concluded"
+    },
+    {
+      "number": "ZP",
+      "time": "5:22 pm",
+      "heading": "17.\tTabling and consideration of committee reports and government responses",
+      "details": "17.\tTabling and consideration of committee reports and government responses",
+      "status": "Report tabled"
+    },
+    {
+      "number": "ZT",
+      "time": "5:17 pm",
+      "heading": "18.\tDelegation report",
+      "details": "18.\tDelegation report",
+      "status": "Report tabled"
+    },
+    {
+      "number": "ZV",
+      "time": "5:16 pm",
+      "heading": "Ministerial statements",
+      "details": "19. Ministerial statements",
+      "status": "Documents tabled"
+    },
+    {
+      "number": "ZW",
+      "time": "5:27 pm",
+      "heading": "Committee memberships",
+      "details": "20. Committee memberships",
+      "status": "Agreed to"
+    },
+    {
+      "number": "ZX",
+      "time": "5:28 pm",
+      "heading": "Messages from the House of Representatives",
+      "details": "21. Messages",
+      "status": "Bill introduced. Debate adjourned"
+    },
+    {
+      "number": "ZZB",
+      "time": "5:30 pm",
+      "heading": "22.\tBusiness to be considered",
+      "details": "22.\tBusiness to be considered",
+      "status": "Negatived"
+    },
+    {
+      "number": "ZZG",
+      "heading": "Adjournment proposed",
+      "details": "23. Adjournment proposed—7.30 pm"
+    },
+    {
+      "number": "ZZH",
+      "heading": "The Senate adjourned at XXXX pm",
+      "details": "24. Adjournment—not later than 8 pm"
+    },
+    {
+      "number": "ZZI",
+      "heading": "Richard Pye\nClerk of the Senate",
+      "details": "Richard PyeClerk of the Senate"
+    }
+  ]
+}
